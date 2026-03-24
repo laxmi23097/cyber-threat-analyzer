@@ -1,0 +1,7 @@
+duration,protocol,packets,label
+10,tcp,50,normal
+20,udp,500,attack
+5,tcp,30,normal
+50,udp,900,attack
+12,tcp,60,normal
+80,udp,1200,attack
